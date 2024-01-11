@@ -216,13 +216,15 @@ height: 42px;
   position: relative;
   width: 40px;
   height: 40px;
-  background-image: url(/plus-circle.png);
+  background-image: url(plus-circle.png);
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .accordion__title.active span{
-  background-image: url(/minus-circle.png);
+  background-image: url(minus-circle.png);
+  width: 40px;
+  height: 40px;
 }
 
 
